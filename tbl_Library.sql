@@ -1,0 +1,10 @@
+('Whimsical Wonders', 'Amanda White', 'Adventure', 2016),
+('Midnight Moon', 'Emily Johnson', 'Romance', 2015),
+('Twilight Symphony', 'Amanda White', 'Thriller', 2020),
+('Twilight Symphony', 'Jessica Miller', 'Sci-Fi', 2021),
+('Whispers in the Wind', 'Emily Johnson', 'Romance', 2014),
+('Starlight Serenade', 'Sarah Wilson', 'Romance', 2015),
+('Fireside Tales', 'Brian Thompson', 'Romance', 2016),
+('Fireside Tales', 'Sarah Wilson', 'Comedy', 2013),
+('Enchanted Dreams', 'Michael Brown', 'Comedy', 2016),
+('Starlight Serenade', 'Olivia Martinez', 'Comedy', 2017);
